@@ -1,0 +1,6 @@
+Moth Hour, sources of every file in this folder
+
+art/*.webp        Painted for this game by its own brush program (tools/art). No third-party material.
+audio/**/*.mp3    Composed and synthesised for this game (tools/audio). No third-party material.
+fonts/PlayfairDisplay-Variable.ttf   SIL Open Font License 1.1, see PlayfairDisplay-OFL.txt
+fonts/Quicksand-Variable.ttf         SIL Open Font License 1.1, see Quicksand-OFL.txt

@@ -1,0 +1,17 @@
+{
+  "sky": { "top": "#05070f", "horizon": "#05070f", "bottom": "#05070f" },
+  "environment": { "intensity": 0 },
+  "sun": { "direction": [0.3, -0.8, 0.5], "color": "#ffffff", "intensity": 0 },
+  "ambient": { "sky": "#ffffff", "ground": "#ffffff", "intensity": 0 },
+  "fog": { "color": "#0a0f2a", "density": 0 },
+  "toneMapping": "none",
+  "exposure": 1.0,
+  "contrast": 1.06,
+  "saturation": 1.08,
+  "shadows": { "enabled": false, "distance": 10, "darkness": 0 },
+  "bloom": { "enabled": true, "threshold": 0.72, "weight": 0.42, "kernel": 64 },
+  "vignette": 0.42,
+  "sharpen": 0,
+  "grain": 0.09,
+  "ssao": { "enabled": false, "strength": 0, "radius": 1 }
+}
